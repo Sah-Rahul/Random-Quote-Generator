@@ -6,4 +6,4 @@
 
 # Hosted on vercel
 
-[text](https://random-quote-generator-orpin-two.vercel.app/)
+(https://random-quote-generator-orpin-two.vercel.app/)
